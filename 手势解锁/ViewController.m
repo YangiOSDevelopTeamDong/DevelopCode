@@ -20,6 +20,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     self.view.backgroundColor = [UIColor redColor];
+    
+    
     //1 默认排版
     
     //1.1 自定义一个 view 并添加按钮
